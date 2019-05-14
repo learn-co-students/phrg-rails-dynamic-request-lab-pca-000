@@ -39,5 +39,3 @@ In this lab, you will work through the full MVC pattern by building a student ma
 ## Does this need an update?
 
 Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-rails-dynamic-request-lab/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-rails-dynamic-request-lab/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
-
-<p data-visibility='hidden'>PHRG Rails Dynamic Request Lab</p>
